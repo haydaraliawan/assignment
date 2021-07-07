@@ -1,0 +1,14 @@
+#para, p{
+    color: red;
+    text-align: center;
+}
+
+.classp1{
+    color: lightblue;
+}
+.classp2{
+    text-align: center;
+}
+*{
+    background-color: lightgoldenrodyellow;
+}

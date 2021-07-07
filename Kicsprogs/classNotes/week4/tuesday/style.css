@@ -1,0 +1,20 @@
+body {
+    margin: 10px;
+}
+
+.avatar {
+    width: 5rem;
+    height: 5rem;
+    background-color: gold;
+    float: right;
+}
+
+.tweet {
+    border: 3px solid lightgray;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: right;  /* we can also use "both" "right" */
+}

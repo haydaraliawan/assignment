@@ -1,0 +1,13 @@
+span {
+    background-image: -moz-linear-gradient();
+    display: none;
+    background-color: burlywood;
+}
+
+span.hidden {
+    width: 400px;
+}
+
+div:hover span {
+    display: block;
+}

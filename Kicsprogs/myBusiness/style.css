@@ -1,0 +1,21 @@
+header {
+    background-color: lightblue;
+    height: 10vh;
+}
+
+.businessName {
+    margin-top: 0;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+div.logo img {
+    width: 10rem;
+    margin-left: 5rem;
+    float: left;
+
+}
+
+.nav {
+    float: right;
+}

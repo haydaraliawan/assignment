@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    float: left;
+    width: 25%;
+    height: 300px;
+    padding: 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, red , yellow);
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}

@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.header , .footer {
+    background-color: coral;
+    padding: 20px;
+}
+
+.column {
+    float: left;
+    padding: 15px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .menu {
+      width: 25%;
+  }
+
+  .content {
+      width: 75%;
+  }
+
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+
+  .menu li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(245, 193, 129);
+    color: black;
+    border-radius: 5px;
+  }

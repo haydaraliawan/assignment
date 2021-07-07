@@ -1,0 +1,29 @@
+/* h1{
+    color: darkblue;
+} */
+
+a:link{
+
+    color: darkorange;
+}
+
+a:active{
+
+    color: deeppink;
+}
+
+a:hover{
+
+    font-size: xx-large;
+    color: darkred;
+}
+
+div.block{
+
+    /* color: cyan; */
+    height: 50px;
+    background-color: darkgoldenrod;
+}
+/* *{
+    color: darkgrey;
+} */

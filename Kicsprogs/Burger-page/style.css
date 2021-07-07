@@ -1,0 +1,31 @@
+header{
+    height: 30vh;
+    background-color: #A1552B;
+    margin-bottom: -8vh;
+}
+
+nav{
+    color: #CFEBEA;
+}
+
+img#logo{
+    margin: 8vh;
+}
+
+h1{
+    padding-top: 30vh;
+    color: blanchedalmond;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+main{
+    background-image: url(Burger-Fries.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 200vh;
+}
